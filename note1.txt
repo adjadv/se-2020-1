@@ -1,0 +1,2 @@
+1, uploads your works such as reports, code etc. to git.
+2, please name your dir with your name and studentid like caoli-2105
